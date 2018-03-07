@@ -1,0 +1,24 @@
+2         H       Wysokość przekroju 2
+0,415          B       Szerokość przekroju 0,415
+11 nH    Liczba wezłów w wysokiści przekroju 11
+17   nB      Liczba wezłów w serokości przekroju 17
+86400         time    czas procesu [s]
+1800         dTime    Początkowy przyrost czasu] [s]
+21        temBegin Temperatura poczatkowa zew[K]
+21        temBegin Temperatura poczatkowa wew[K]
+-10        temSurr Temperatura otoczenia [K]
+Material 1Sciana betonowa
+15         alfa    Współczyni wymiany ciepła
+840          C       Pojemność cieplna
+800          R       Gestość
+0,25          K       Współczynik przewodzenia ciepła
+Materiał 2 Styropian
+15    Współczyni wymiany ciepła
+1460    Pojemność cieplna
+20   Gestość
+0,43    Współczynik przewodzenia ciepła
+Materiał 3
+15        Współczyni wymiany ciepła
+1000    Pojemność cieplna
+900    Gestość
+0,29    Współczynik przewodzenia ciepła

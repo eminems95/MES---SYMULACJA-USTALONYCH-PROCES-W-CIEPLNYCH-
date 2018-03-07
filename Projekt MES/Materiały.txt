@@ -1,0 +1,24 @@
+	---------------------
+	|	M	|  S	| P |		Mur z betonu komórkowego na cienkowarstwowej 
+	|	U	|  T 	| £ |		zaprawie klej¹cej o przewodnosci cieplnej zblizonej do 
+	|	R	|  Y	| Y |		przewodnoœci cieplnej betonu komorkowego.
+	|		|  R	| T |
+	|		|  O	| A |
+	|		|  P	|   |
+	|		|  I	| G |
+	|		|  A	| I |
+	|		|  N	| P |
+	|		|	| S |
+	|		|	| O |
+	|		|	| W |
+	|		|	| A |
+	|		|	|1.5|
+	|   30cm	|10cm	|cm |
+	---------------------
+					Mur		Styropian		P³yta gipsowa
+ Ciep³o w³asciewe(J/kg*K)		840		1460			1000
+ Gestoœæ(kg/m3)			800		20			900
+ Wspó³czynik przewodzenia ciep³a	0,29		0,43			0,25
+ Wspó³czyni wymiany ciep³a		0,967		4,29			16,667
+
+Wspó³czyni wymiany ciep³a oglony		0,752
